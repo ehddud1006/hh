@@ -1,4 +1,4 @@
-<h3>1. router.isReady 메서드 사용하기</h3><p><code>router.isReady</code>는 라우터 필드가 클라이언트 측에서 업데이트되고 사용할 준비가 되었는지 여부를 확인하는 메서드이다.</p><p>이 방법은 Next.Js@10.0.5이후에 추가된 기능이라고 한다.</p><pre><code class="language-plaintext">  useEffect(() =&gt; {
+<h3>11111</h3><h3>1. router.isReady 메서드 사용하기</h3><p><code>router.isReady</code>는 라우터 필드가 클라이언트 측에서 업데이트되고 사용할 준비가 되었는지 여부를 확인하는 메서드이다.</p><p>이 방법은 Next.Js@10.0.5이후에 추가된 기능이라고 한다.</p><pre><code class="language-plaintext">  useEffect(() =&gt; {
       if (!router.isReady) return;
       router.query.pvId &amp;&amp;
         setSkuInfo({ ...skuInfo, productVariationId: Number(router.query.pvId) });
