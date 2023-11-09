@@ -1,1 +1,1 @@
-<h2>진짜 찐막으로 확인하고 크롬 마켓에 제출한다.</h2><p>&nbsp;</p>
+<p>좋은 아이디어</p><p>&nbsp;</p><figure class="image"><img src="https://i.ibb.co/SKqzVsP/2023-11-10-1-29-21.png"></figure><p>&nbsp;</p><p>&nbsp;</p><p>안녕하세요!!!</p>
