@@ -60,15 +60,18 @@
 <img width="3000" alt="스크린샷 2023-03-16 오전 9 30 09" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/0eb148fe-0d60-4b33-918e-546fdab21e69">
 </p>
 
-# 🧩 주요 기능
-|TIL 작성|TIL 목록|
-|:--:|:--:|
-|- 마크다운 에디터를 통한 TIL 작성<br/>-사라질 걱정 없는 상시 저장 기능<br/> |- 작성한 TIL 목록들을 검색하고 확인<br/>- 장미밭을 통해 학습 열정 확인|
-|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/2c8fc376-7009-402b-9007-5d7ede29d4a1">|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/2c8fc376-7009-402b-9007-5d7ede29d4a1">|
 
-|TIL 작성|TIL 목록|
+
+
+# 🧩 주요 기능
+|TIL 작성|메인|
 |:--:|:--:|
-|- 마크다운 에디터를 통한 TIL 작성<br/>-사라질 걱정 없는 상시 저장 기능<br/> |- 작성한 TIL 목록들을 검색하고 확인<br/>- 장미밭을 통해 학습 열정 확인|
-|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/2c8fc376-7009-402b-9007-5d7ede29d4a1">|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/2c8fc376-7009-402b-9007-5d7ede29d4a1">|
+|- 마크다운 에디터를 통한 TIL 작성<br/>-사라질 걱정 없는 상시 저장 기능<br/> |- 작성한 TIL 목록들을 검색하고 확인<br/>- 장미밭을 통해 학습 열정 확인 <br/> - 개인, 그룹 로드맵을 분류하여 관리|
+|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/ehddud1006/hh/assets/62373865/f4d03965-7ccc-45e4-b47e-948515759984">|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/ehddud1006/hh/assets/62373865/962b8453-c687-4354-9b60-6835368d0194">|
+
+|참고 자료|로드맵 목록|
+|:--:|:--:|
+|- 로드맵에 참고할 자료를 첨부하는 기능<br/>-유튜브, 참고자료 링크<br/> |- 내가 참여하고 있는 로드맵의 목록을 확인<br/>- 현재 모집중인 그룹 로드맵 목록 확인|
+|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/ehddud1006/hh/assets/62373865/ef823cdf-eaa1-4e37-90ff-d04427b0c824">|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/ehddud1006/hh/assets/62373865/6b29ee53-d90f-4a04-920a-f998a9970ab1">|
 
 
