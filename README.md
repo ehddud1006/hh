@@ -83,9 +83,7 @@
 |TIL 공유하기|깃허브 업로드|
 |:--:|:--:|
 |- 내가 공부하는 주제에 대해 타인과 생각을 공유<br/>|- 작성한 학습일지를 깃허브에 업로드 하는 기능<br/>
-|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/ehddud1006/hh/assets/62373865/6269996b-3e01-46e2-9b89-b051c1955241">|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/ehddud1006/hh/assets/62373865/6b29ee53-d90f-4a04-920a-f998a9970ab1">|
-
-
+|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/ehddud1006/hh/assets/62373865/a7166450-9ccb-4d0b-bf7c-42e09af11ab8">|<img width="476" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/ehddud1006/hh/assets/62373865/ba8ecb2b-0c68-4c59-95ca-fff9bba21093">|
 
 
 
